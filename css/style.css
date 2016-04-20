@@ -16,7 +16,21 @@ h1, h2, h3, h4, h5, h6{
     font-family: 'Lato', sans-serif;
 }
 
-p, th {
+h1{	
+	color: #138EA6;
+	font-family:georgia, serif;
+	font-size: 90px;
+}
+
+h2{
+	font-size: 50px;
+	}
+
+h3 {
+	font-size: 35px;
+}
+
+p {
     text-align:left;
 	font-size: 150%;
 	margin: 20px 50px 20px 10px;
@@ -24,9 +38,10 @@ p, th {
 
 }
 
-p, {
-	margin: 50px 100px 50px 40px;
+th,tr {
+	margin: 20px 50px 20px 20px;
 	padding : 20px 30px 20px 40px;
+	font-size: 15px;
 	}
 
 
@@ -53,19 +68,4 @@ img{
 	height: 1px;
 	display: block;
 	clear:both;
-}
-
-h1{
-	text-align: center;
-	color: #138EA6;
-	font-family:georgia, serif;
-	font-size: 90px;
-}
-
-h2{
-	font-size: 50px;
-	}
-
-h3 {
-	font-size: 35px;
 }

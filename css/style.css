@@ -16,18 +16,18 @@ h1, h2, h3, h4, h5, h6{
     font-family: 'Lato', sans-serif;
 }
 
-p {
+p, th {
     text-align:left;
-	margin: 50px 100px 50px 40px;
-	padding : 20px 30px 20px 40px;
 	font-size: 150%;
+	margin: 20px 50px 20px 10px;
+	padding : 20px 20px 20px 20px;
+
 }
 
-th {
-    text-align:left;
+p, {
 	margin: 50px 100px 50px 40px;
-	font-size: 100%;
-}
+	padding : 20px 30px 20px 40px;
+	}
 
 
 .container{
@@ -59,7 +59,7 @@ h1{
 	text-align: center;
 	color: #138EA6;
 	font-family:georgia, serif;
-	font-size: 100px;
+	font-size: 90px;
 }
 
 h2{

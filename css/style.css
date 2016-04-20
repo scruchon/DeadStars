@@ -1,25 +1,50 @@
-/* Styles de DeadStars test*/
+/* Styles de DeadStars */
 
 body{
 	background: #FAFAFA;
 	text-align: center;
 	padding: 3px;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6{
 	text-align: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 70px;
+    margin-left: 40px;
+    font-family: 'Lato', sans-serif;
+}
+
+h1{	
+	color: #138EA6;
+	font-family:georgia, serif;
+	font-size: 90px;
+}
+
+h2{
+	font-size: 50px;
+	}
+
+h3 {
+	font-size: 35px;
 }
 
 p {
     text-align:left;
-	margin: 50px 100px 50px 40px;
-	padding : 20px 30px 20px 40px;
+	font-size: 150%;
+	margin: 20px 50px 20px 10px;
+	padding : 20px 20px 20px 20px;
+
 }
+
+th,tr {
+	margin: 20px 50px 20px 20px;
+	padding : 20px 30px 20px 40px;
+	font-size: 15px;
+	}
+
+
 .container{
 	position: relative;
 	width:960px;
@@ -32,6 +57,10 @@ p {
 img{
 	width:20%;
 	height: auto;
+	float: left;
+    margin: 0 0 50px 50px;
+    float: center;
+    
 }
 
 .clear{
@@ -39,21 +68,4 @@ img{
 	height: 1px;
 	display: block;
 	clear:both;
-}
-
-h1{
-	text-align: center;
-	color: #138EA6;
-	font-family:georgia, serif;
-	font-size: 100px;
-}
-
-h2{
-	font-family: 'Playfair Display', serif;
-	font-size: 50px;
-	}
-
-h3 {
-	font-family: 'Playfair Display', serif;
-	font-size: 35px;
 }

@@ -44,8 +44,13 @@ img{
 h1{
 	text-align: center;
 	color: #138EA6;
+	font-family:georgia, serif;
 }
 
 h2{
-	
+	font-family: 'Playfair Display', serif;
+	}
+
+h3 {
+	font-family: 'Playfair Display', serif;
 }

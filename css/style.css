@@ -1,9 +1,10 @@
 /* Styles de DeadStars */
 
 body{
-	background: #dfdfdf;
+	background: #FAFAFA;
 	text-align: center;
 	padding: 3px;
+	font-family: 'Oswald', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -29,7 +30,7 @@ p {
 
 
 img{
-	width:100%;
+	width:20%;
 	height: auto;
 }
 

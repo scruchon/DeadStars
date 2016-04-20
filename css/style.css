@@ -35,6 +35,7 @@ img{
 	height: auto;
 	float: left;
     margin: 0 0 50px 50px;
+    
 }
 
 .clear{
@@ -52,11 +53,9 @@ h1{
 }
 
 h2{
-	font-family: 'Lato', sans-serif;
 	font-size: 50px;
 	}
 
 h3 {
-	font-family: 'Lato', sans-serif;
 	font-size: 35px;
 }
